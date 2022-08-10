@@ -9,6 +9,13 @@ html {
   background-color: #161717;
   color: white;
 }
+
+a {
+  color: white;
+  box-shadow: 2px 3px 2px white;
+  text-decoration-line: none;
+  border-radius: 5px;
+}
 .contenedor {
   display: flex;
   flex-direction: column;
